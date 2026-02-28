@@ -1,0 +1,6 @@
+*.log
+.geometry/loop.log
+.geometry/PAUSE
+.geometry/STOP
+.geometry/CHECKPOINT.md
+.geometry/BLOCKER_REPORT.md

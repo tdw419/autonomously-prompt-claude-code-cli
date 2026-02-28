@@ -1,0 +1,40 @@
+meta:
+  goal: "Geometry OS runs Linux or has Linux-equivalent capabilities"
+  created: 2026-02-28T00:00:00Z
+  last_updated: 2026-02-28T00:00:00Z
+  version: 1
+
+phase:
+  current: "A"
+  name: "Foundation & Boot Infrastructure"
+  status: "pending"
+  completion_pct: 0
+
+task:
+  current: null
+  description: null
+  status: "pending"
+
+completion_promises: []
+
+dirty_bits:
+  code_modified: false
+  tests_run: false
+  tests_passing: null
+  docs_updated: false
+
+safety:
+  iteration_count: 0
+  max_iterations: 100
+  consecutive_failures: 0
+  max_consecutive_failures: 3
+  last_tool_signatures: []
+  signature_history_depth: 10
+  soft_loop_threshold: 3
+  hard_loop_threshold: 5
+  loop_detected: false
+
+context:
+  estimated_usage_pct: 0
+  compaction_threshold: 85
+  last_compaction: null

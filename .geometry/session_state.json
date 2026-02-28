@@ -1,0 +1,10 @@
+{
+  "session_id": "auto-init",
+  "started": "2026-02-28T00:00:00Z",
+  "turn_count": 0,
+  "recent_actions": [],
+  "tool_signature_buffer": [],
+  "failure_count": 0,
+  "last_orchestrator_prompt": null,
+  "worker_output_buffer": ""
+}

@@ -1,0 +1,11 @@
+{
+  "session_id": "auto-init",
+  "model_version": "claude-sonnet-4.6",
+  "prompt_hash": null,
+  "started": null,
+  "ended": null,
+  "trajectory": [],
+  "tool_calls": [],
+  "decisions": [],
+  "checkpoints": []
+}
